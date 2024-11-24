@@ -77,7 +77,7 @@ How to Install MangoLib
 Clone the repository:
 
 
-git clone https://github.com/yourusername/MangoLib.git
+git clone https://github.com/EpicDevRobert/MangoLib.git
 Build the project using CMake:
 
 cd MangoLib
